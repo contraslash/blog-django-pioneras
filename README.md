@@ -4,7 +4,7 @@ This structure was automatically created by [Django Bootstrapper](https://pypi.o
 
 Default folder structure:
 
-```bash
+```text
 project_folder
 ├── applications
 │   ├── authentication (Authentication from https://github.com/contraslash/authentication-django)
